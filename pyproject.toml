@@ -51,7 +51,7 @@ dependencies = [
     "bcrypt",  # Requires libffi-dev and python-dev
 
     "asgiref",
-    "dnspython==2.3.0",
+    "dnspython==2.4.1",
     "feedparser==6.0.10",
     "gevent==22.10.2",
     "jsonfield==3.1.0",
