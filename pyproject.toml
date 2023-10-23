@@ -53,7 +53,7 @@ dependencies = [
     "asgiref",
     "dnspython==2.3.0",
     "feedparser==6.0.10",
-    "gevent==22.10.2",
+    "gevent==23.9.1",
     "jsonfield==3.1.0",
     "Pillow",  # Optional dependency for django-ckeditor
     "progressbar33==2.4",
